@@ -14,6 +14,10 @@ Swal.fire({
     cancelButtonColor: ' #A2CC3E',
     confirmButtonText: '¡Sí, soy administrador!',
     cancelButtonText: '¡No soy administrador!'
+}).then((resultado) => {
+    if (!resultado.isConfirmed) {
+        window.location.href = 'index.php';
+    }
 })
 
 

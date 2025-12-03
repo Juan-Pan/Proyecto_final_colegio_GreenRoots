@@ -230,7 +230,7 @@
       <div class="card " style="--i:url(imagenes/arbol21.1.jpg)">
         <div class="content">
           <h2>Busca tu árbol</h2>
-          <a href="#" class="btn" style="background-color: #FF7F3F">
+          <a href="buscatuarbol.php" class="btn" style="background-color: #FF7F3F">
             <font color="f2f2f2">Ver Detalles</font>
           </a>
         </div>
