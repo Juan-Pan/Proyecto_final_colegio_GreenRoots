@@ -228,7 +228,7 @@
         	  				<h1 style="text-align:center">
         	  					<font color="#f2f2f2"> Iniciar Sesión</font>
         	  				</h1>
-        	  				<form action="#" method="POST" autocomplete="off">
+        	  				<form action="sesionadmin.php" method="POST" autocomplete="off">
         	  					<div class="form-group row">
         	  						<div class="col-sm-3">
         	  						</div>

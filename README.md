@@ -28,7 +28,7 @@ Ver instrucciones detalladas en: [deploy/INSTRUCCIONES_DESPLIEGUE.md](deploy/INS
 
 ## Nota
 
-Este es un proyecto de recuerdo del colegio. El código se mantiene tal como fue creado en ese tiempo.
+Este es un proyecto de recuerdo del colegio. El código se mantiene tal como fue creado en ese tiempo. (aun no esta desplegado correctamente...)
 
 ---
 
