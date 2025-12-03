@@ -1,0 +1,22 @@
+# Archivos de configuración sensibles
+.env
+*.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Carpetas temporales
+error_log
+php_errorlog
+
+# Archivos de desarrollo local
+/antes de todo/
+/borrar/
+/hoy/
+/random/
+/Modificaciones de yo/
+/mis cositas/
+
+# Mantener solo deploy/ y documentación
